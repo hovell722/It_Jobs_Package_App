@@ -29,7 +29,7 @@
     },
     "instance_type": "t2.micro",
     "ssh_username": "ubuntu",
-    "ami_name": "eng54-james-node-app-{{timestamp}}"
+    "ami_name": "eng54-james-AMI-production-{{timestamp}}"
   }],
   "provisioners": [
     {

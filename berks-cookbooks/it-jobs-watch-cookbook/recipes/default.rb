@@ -1,14 +1,9 @@
 #
-# Cookbook:: python-it-job-watch-env-cookbook-packer
+# Cookbook:: it-job-watch-cookbook
 # Recipe:: default
 #
 # Copyright:: 2020, The Authors, All Rights Reserved.
 
-# Cookbook:: IT-Job-Task
-# Recipe:: default
-#
-# Copyright:: 2020, The Authors, All Rights Reserved.
-#
 apt_update 'update_sources' do
   action :update
 end
