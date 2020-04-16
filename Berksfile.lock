@@ -1,0 +1,7 @@
+DEPENDENCIES
+  it-jobs-watch-cookbook
+    git: git@github.com:hovell722/it-jobs-watch-cookbook.git
+    revision: 024cb7b6217611c5ffb4b26d42f190caf71ebec6
+
+GRAPH
+  it-jobs-watch-cookbook (0.1.0)
